@@ -1,0 +1,2 @@
+# Batch creation of booking promo codes
+A local stdio MCP plans and creates bounded batches in the operator's signed-in RealtyCalendar browser. Support RUB or percentage, expiry, booking window and optional stay window. Default to one redemption per code. Preserve resumability across partial batches, avoid blind writes, report verified codes and stop on uncertainty. No deployment-specific files, credentials or browser state in the public repository.
